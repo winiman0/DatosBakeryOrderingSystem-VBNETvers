@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\users.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\users.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\productadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\productadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\register.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|d:\\uni\\mac24 - ogos 24\\csc301\\vb project\\datosbakeryorderingsystem\\datosbakeryorderingsystem\\orderlogadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\orderlogadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|d:\\uni\\mac24 - ogos 24\\csc301\\vb project\\datosbakeryorderingsystem\\datosbakeryorderingsystem\\users.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\users.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|d:\\uni\\mac24 - ogos 24\\csc301\\vb project\\datosbakeryorderingsystem\\datosbakeryorderingsystem\\orderlogadmin.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\orderlogadmin.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\users.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\users.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DatosBakeryOrderingSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\productadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\productadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\orderlogadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\orderlogadmin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\productlist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\productlist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\account.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\account.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\receipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\receipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\datosbakeryorderingsystem\\cart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5D234B19-3978-4029-99DF-414139814D53}|DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj|solutionrelative:datosbakeryorderingsystem\\cart.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.Designer.vb",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Users.Designer.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\Users.Designer.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Users.Designer.vb*",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\Users.Designer.vb*",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-13T19:38:35.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "orderLogAdmin.Designer.vb",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\orderLogAdmin.Designer.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\orderLogAdmin.Designer.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\orderLogAdmin.Designer.vb",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\orderLogAdmin.Designer.vb",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAQwFQAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-13T18:50:32.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatosBakeryOrderingSystem",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-11T07:58:08.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.vb [Design]",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Register.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\Register.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Register.vb [Design]",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\Register.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-11T07:52:59.393Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "orderLogAdmin.vb [Design]",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\orderLogAdmin.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\orderLogAdmin.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\orderLogAdmin.vb [Design]",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\orderLogAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T15:57:37.814Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductAdmin.vb",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\ProductAdmin.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\ProductAdmin.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\ProductAdmin.vb",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\ProductAdmin.vb",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T15:21:07.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.vb",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\login.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\login.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\login.vb",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\login.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T15:20:03.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.vb [Design]",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\login.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\login.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\login.vb [Design]",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T15:19:33.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.vb [Design]",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Users.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\Users.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Users.vb [Design]*",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\Users.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T01:30:26.39Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductAdmin.vb [Design]",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\ProductAdmin.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\ProductAdmin.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\ProductAdmin.vb [Design]",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\ProductAdmin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T15:14:55.178Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.vb",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Users.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\Users.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Users.vb*",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\Users.vb*",
+              "ViewState": "AQIAAF8AAAAAAAAAAIA1wG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T15:12:15.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "orderLogAdmin.vb",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\orderLogAdmin.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\orderLogAdmin.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\orderLogAdmin.vb",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\orderLogAdmin.vb",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-10T15:01:32.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductList.vb [Design]",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\ProductList.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\ProductList.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\ProductList.vb [Design]",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\ProductList.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T09:07:58.082Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cart.vb [Design]",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Cart.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\Cart.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Cart.vb [Design]",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\Cart.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T01:30:05.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Receipt.vb [Design]",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Receipt.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\Receipt.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Receipt.vb [Design]",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\Receipt.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T01:30:20.817Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account.vb [Design]",
+              "DocumentMoniker": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Account.vb",
+              "RelativeDocumentMoniker": "DatosBakeryOrderingSystem\\Account.vb",
+              "ToolTip": "D:\\uni\\mac24 - ogos 24\\csc301\\VB Project\\DatosBakeryOrderingSystem\\DatosBakeryOrderingSystem\\Account.vb [Design]",
+              "RelativeToolTip": "DatosBakeryOrderingSystem\\Account.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-01T01:29:58.452Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

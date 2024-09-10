@@ -1,0 +1,70 @@
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.exe.config
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.exe
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.pdb
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.xml
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.vbproj.AssemblyReference.cache
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Resources.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.vbproj.GenerateResource.cache
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.exe
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.xml
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.pdb
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.login.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Register.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.orderLogAdmin.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Users.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.ProductAdmin.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\Employee.accdb
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\EmployeeDataSet.Designer.vb
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\EmployeeDataSet.xsc
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\EmployeeDataSet.xsd
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\EmployeeDataSet.xss
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\bin\Debug\Employee.accdb
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\bin\Debug\EmployeeDataSet.Designer.vb
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\bin\Debug\EmployeeDataSet.xsc
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\bin\Debug\EmployeeDataSet.xsd
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\bin\Debug\EmployeeDataSet.xss
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.exe.config
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.exe
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.pdb
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.xml
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.vbproj.AssemblyReference.cache
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.login.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Resources.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.orderLogAdmin.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.ProductAdmin.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Register.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Users.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.vbproj.GenerateResource.cache
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.exe
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.xml
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.pdb
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Product.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\bin\Debug\datosBakery.accdb
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Account.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Cart.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.ProductList.resources
+C:\Users\MUHAMMAD AIDIEL\Desktop\SEMESTER 4\CSC301\VISUAL\DatosBakeryOrderingSystemV2\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Receipt.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.vbproj.AssemblyReference.cache
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.exe
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.xml
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.pdb
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\datosBakery.accdb
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.exe.config
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.exe
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.pdb
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\bin\Debug\DatosBakeryOrderingSystem.xml
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Account.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Cart.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.login.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Resources.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.orderLogAdmin.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Product.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.ProductAdmin.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.ProductList.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Receipt.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Register.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.Users.resources
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.vbproj.GenerateResource.cache
+D:\uni\mac24 - ogos 24\csc301\VB Project\DatosBakeryOrderingSystem\DatosBakeryOrderingSystem\obj\Debug\DatosBakeryOrderingSystem.vbproj.CoreCompileInputs.cache

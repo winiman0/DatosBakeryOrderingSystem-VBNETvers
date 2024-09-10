@@ -1,0 +1,53 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>bakeryV2</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>VisualBasic</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>bakeryV2</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="bakery.vbproj" File="bakery.vbproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="Account.vb">Account.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Account.Designer.vb">Account.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Account.resx">Account.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="App.config">App.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Cart.vb">Cart.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Cart.Designer.vb">Cart.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Cart.resx">Cart.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.vb">Form1.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.Designer.vb">Form1.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.resx">Form1.resx</ProjectItem>
+      <Folder Name="My Project" TargetFolderName="My Project">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.myapp">Application.myapp</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.Designer.vb">Application.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.vb">AssemblyInfo.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.vb">Resources.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.vb">Settings.Designer.vb</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="receipt.vb">receipt.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="receipt.Designer.vb">receipt.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="receipt.resx">receipt.resx</ProjectItem>
+      <Folder Name="Resources" TargetFolderName="Resources">
+        <ProjectItem ReplaceParameters="false" TargetFileName="confetiVanillaCake.jpg">confetiVanillaCake.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="creamPuff.jpg">creamPuff.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="default user.jpeg">default user.jpeg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="fruityBitesCake.jpg">fruityBitesCake.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="japaneseMatchaCake.jpg">japaneseMatchaCake.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="milkDonut.jpg">milkDonut.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="nightSkyCake.jpg">nightSkyCake.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="respberryPie.jpg">respberryPie.jpg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="sofwaffle.jpg">sofwaffle.jpg</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
